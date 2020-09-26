@@ -8,5 +8,7 @@ import (
 func main() {
 	s := time.Now()
 	fmt.Println(s)
+	
+	//write here
 )
 
