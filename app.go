@@ -1,5 +1,9 @@
 package main
 
-func main () { 
+import (
+	"time"
+)
 
+func main() {
+	s := time.Now()
 }
